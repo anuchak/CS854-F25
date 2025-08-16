@@ -1,4 +1,4 @@
-# CS854: Fall 25- Model Serving Systems for GenAI
+# CS854: Fall 25 - Model Serving Systems for GenAI
 
 ## Course Description
 Generative AI (GenAI) applications are revolutionizing the world. The latest GenAI models such as GPT-4 have achieved unprecedented performance in various tasks such as code generation, text classification, and problem reasoning. However, serving GenAI applications, i.e., deploying trained GenAI models on a compute cluster and conducting model inference for incoming user requests, presents challenges in systems design. 
